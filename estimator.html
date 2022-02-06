@@ -10,6 +10,7 @@
 </head>
 
 <body>
+    <!--we will structure now our second html page/starting with the header-->
     <header>
         <div class="header">
             <p>
@@ -19,6 +20,53 @@
             </p>
         </div>
     </header>
+    <section>
+        <!--range and fuel counter will go here below-->
+        <div id="counter">
+            <span>
+                <h3>SET WIND SPEED m/s</h3>
+            </span>
+            <span>
+                <h1 id="wind-display">0</h1>
+            </span>
+            <button class="btn" id="increment" onclick="up()">
+                <h3>INCREASE</h3>
+            </button>
+            <br>
+            <button class="btn" id="decrement" onclick="down()">
+                <h3>DECREACE</h3>
+            </button>
+            <br>
+            <br>
+            <span>
+                <h3>SET YOUR RPM</h3>
+            </span>
+            <span>
+                <h1 id="rpm-display">600</h1>
+            </span>
+            <button class="btn" id="rpm-up" onclick="high()">
+                <h3>INCREASE</h3>
+            </button>
+            <br>
+            <button class="btn" id="rpm-down" onclick="low()">
+                <h3>DECREACE</h3>
+            </button>
+            <br>
+            <br>
+            <div id="fuel-paragraph">
+                <h3>YOUR ESTIMATED FUEL USAGE l/hour:</h3>
+            </div>
+            <div>
+                <h1 id="fuel-gauge">5</h1>
+            </div>
+            <div id="range-paragraph">
+                <h3>YOUR ESTIMATED RANGE nautical miles:</h3>
+            </div>
+            <div id="range-finder">
+                <h1>300</h1>
+            </div>
+        </div>
+    </section>
     <script src="assets/java.js"></script>
 </body>
 
