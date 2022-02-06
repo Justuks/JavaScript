@@ -27,14 +27,16 @@ body {
     margin-left: auto;
     margin-right: auto;
     letter-spacing: 2px;
-    height: 20vh;
+    height: 30vh;
     text-align: center;
     padding: auto;
     line-height: 50px;
     font-size: smaller;
     border-radius: 10px;
 }
-
+#second-p {
+    font-size: large;
+}
 /*apply style for the navigation links down below*/
 .nav {
     color: #f5f5f5;
@@ -71,4 +73,22 @@ body {
 }
 .btn {
     cursor: pointer
+}
+/*style main 'estimator - counter' window here*/
+#counter  {
+    background-color: black;
+    border-radius: 10px;
+    border: 2px solid #a87b32;
+    width: 50%; 
+    margin: auto;
+    margin-top: 50px;
+    height: 75vh;
+    box-shadow: -10px 25px rgba(0, 0, 0, 0.5);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: smaller;
+    font-weight: 300;
 }
