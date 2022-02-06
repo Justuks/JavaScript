@@ -3,7 +3,7 @@ function answer1(){
     console.log(alert('Wrong answer, please try again'))
 }
 function answer2(){
-    console.log(alert('Correct. By the way, I am a pop up message, - grand daddy of JavaScript.g'))
+    console.log(alert('Correct. By the way, I am a pop up message, - grand daddy of JavaScript.'))
 }
 
 //now lets write script for our estimator

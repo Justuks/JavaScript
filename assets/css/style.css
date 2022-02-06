@@ -27,13 +27,14 @@ body {
     margin-left: auto;
     margin-right: auto;
     letter-spacing: 2px;
-    height: 30vh;
+    height: 20vh;
+    line-height: normal;
     text-align: center;
     padding: auto;
     font-weight: 100;
     line-height: 50px;
     font-size: smaller;
-    border-radius: 10px;
+    border-radius: 15px;
 }
 #second-p {
     font-size: large;
@@ -46,7 +47,6 @@ body {
 #mymenu {
     font-size: large;
     text-align: center;
-    margin-top: 30px;
 }
 
 #mymenu li {
@@ -59,7 +59,7 @@ body {
     background-color: black;
     font-weight: 300;
     letter-spacing: 2px;
-    border-radius: 10px;
+    border-radius: 15px;
     border: 2px solid #a87b32;
     width: 50%; 
     margin: auto;
@@ -78,7 +78,7 @@ body {
 /*style main 'estimator - counter' window here*/
 #counter  {
     background-color: black;
-    border-radius: 10px;
+    border-radius: 15px;
     border: 2px solid #a87b32;
     width: 50%; 
     margin: auto;
