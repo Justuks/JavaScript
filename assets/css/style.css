@@ -82,6 +82,7 @@ body {
     border-radius: 15px;
     border: 2px solid #a87b32;
     width: 50%; 
+    letter-spacing: 2px;
     margin: auto;
     margin-top: 50px;
     height: 75vh;
@@ -92,5 +93,4 @@ body {
     justify-content: center;
     text-align: center;
     font-size: smaller;
-    font-weight: 300;
 }
