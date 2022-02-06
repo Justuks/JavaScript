@@ -1,3 +1,4 @@
+//lets write few functions that will display messages when the buttons are clicked
 function answer1(){
     console.log(alert('Wrong answer, please try again'))
 }
