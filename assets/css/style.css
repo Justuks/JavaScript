@@ -30,6 +30,7 @@ body {
     height: 30vh;
     text-align: center;
     padding: auto;
+    font-weight: 100;
     line-height: 50px;
     font-size: smaller;
     border-radius: 10px;
