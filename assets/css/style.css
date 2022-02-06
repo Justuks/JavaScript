@@ -21,7 +21,7 @@ body {
 .header {
     border: 2px solid #a87b32;
     background-color: black;
-    margin-top: 30px;
+    margin-top: 15px;
     box-shadow: -10px 25px rgba(0, 0, 0, 0.5);
     width: 70%;
     margin-left: auto;
@@ -84,7 +84,7 @@ body {
     width: 50%; 
     letter-spacing: 2px;
     margin: auto;
-    margin-top: 50px;
+    margin-top: 35px;
     height: 75vh;
     box-shadow: -10px 25px rgba(0, 0, 0, 0.5);
     display: flex;
@@ -92,5 +92,5 @@ body {
     align-items: center;
     justify-content: center;
     text-align: center;
-    font-size: smaller;
+    font-size: small;
 }
