@@ -15,3 +15,21 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
 }
+
+/*lets apply style to our header below here*/
+.header {
+    border: 2px solid #a87b32;
+    background-color: black;
+    margin-top: 30px;
+    box-shadow: -10px 25px rgba(0, 0, 0, 0.5);
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    letter-spacing: 2px;
+    height: 20vh;
+    text-align: center;
+    padding: auto;
+    line-height: 50px;
+    font-size: smaller;
+    border-radius: 10px;
+}
