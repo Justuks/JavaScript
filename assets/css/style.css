@@ -37,7 +37,8 @@ body {
     border-radius: 15px;
 }
 #second-p {
-    font-size: large;
+    font-size: 18px;
+    line-height: 35px;
 }
 /*apply style for the navigation links down below*/
 .nav {
