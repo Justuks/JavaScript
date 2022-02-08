@@ -127,3 +127,22 @@ body {
     font-size: x-small;
     height: 20px;
 }
+
+
+#game {
+    background-color: black;
+    border-radius: 15px;
+    border: 2px solid #a87b32;
+    width: 50%; 
+    letter-spacing: 2px;
+    margin: auto;
+    margin-top: 80px;
+    height: 100vh;
+    box-shadow: -10px 25px rgba(0, 0, 0, 0.5);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: small;
+}
