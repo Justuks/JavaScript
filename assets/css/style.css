@@ -64,7 +64,7 @@ body {
     border: 2px solid #a87b32;
     width: 50%; 
     margin: auto;
-    margin-top: 100px;
+    margin-top: 80px;
     height: 50vh;
     box-shadow: -10px 25px rgba(0, 0, 0, 0.5);
     display: flex;
@@ -102,7 +102,7 @@ body {
         width: 70%;
         margin-left: auto;
         margin-right: auto;
-        margin-top: 100px;
+        margin-top: 80px;
         letter-spacing: 2px;
         height: 20vh;
         line-height: normal;
@@ -110,7 +110,17 @@ body {
         padding: auto;
         font-weight: 100;
         line-height: 50px;
-        font-size: smaller;
+        font-size: 20px;
         border-radius: 15px;
+        margin-bottom: 15px;
     
+}
+#return, #mail {
+    color: #f5f5f5;
+    text-decoration:underline;
+}
+.bottom {
+    text-decoration: none;
+    font-size: x-small;
+    height: 20px;
 }
