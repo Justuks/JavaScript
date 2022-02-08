@@ -128,7 +128,7 @@ body {
     height: 20px;
 }
 
-
+/*style my game container below here*/
 #game {
     background-color: black;
     border-radius: 15px;
@@ -146,3 +146,15 @@ body {
     text-align: center;
     font-size: small;
 }
+
+/* work on buttons*/
+.btn {
+    font-size: large;
+    font-weight: bold; 
+    background: #a87b32;
+    border-radius: 15px;
+    padding: 10px;
+    color: #f5f5f5;
+    margin: 5px;
+    cursor: pointer;
+ }
