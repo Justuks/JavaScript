@@ -180,5 +180,5 @@ function beginQuiz() {
     submitBtn.classList.add("hide");
     trueBtn.classList.add("hide");
     falseBtn.classList.add("hide");   
-    questionText.innerHTML ="Congratulations on submitting the Quiz!"
+    questionText.innerHTML ="You just completed questionnaire!"
  }
