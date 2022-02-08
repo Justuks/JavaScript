@@ -38,8 +38,44 @@ let questions = [
    }
 ]
 
-// now we need to add trigger property to our buttons with an 'onclick'.
+// now we need to add trigger property to our buttons with a 'click'.
 restartBtn.addEventListener("click", restart);
 prevBtn.addEventListener("click", prev);
 nextBtn.addEventListener("click",next);
 submitBtn.addEventListener("click",submit);
+
+//work on function start-questions
+function startQuestions() {
+    currentQuestion = 0;
+    totalScore.innerHTML = questions.length;
+    questionText.innerHTML = questions[currentQuestion].question;
+    trueBtn.innerHTML = questions[currentQuestion].answers[0].option;
+    trueBtn.onclick = () => {
+        if(questions[currentQuestion].answers[0].answer) {
+            if(score < 3) {
+                score++;
+            }
+        }
+        userScore.innerHTML = score;
+        if(currentQuestion < 2) {
+            next();
+        }
+    }
+  
+    falseBtn.innerHTML = questions[currentQuestion].answers[1].option;
+    falseBtn.onclick = () => {
+        if(questions[currentQuestion].answers[1].answer) {
+            if(score < 3) {
+                score++;
+            }
+        }
+        userScore.innerHTML = score;
+        if(currentQuestion < 2) {
+            next();
+        }
+    }
+  
+    prevBtn.classList.add("hide");
+ }
+  
+ startQuestions();
