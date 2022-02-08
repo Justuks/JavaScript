@@ -158,8 +158,17 @@ body {
     margin: 5px;
     cursor: pointer;
  }
-
-
+.content {
+    margin-top: 25px;
+}
+#question-text {
+    margin-bottom: 25px;
+    font-size: large;
+    letter-spacing: 2px;
+}
+.controls {
+    margin-top: 50px;
+}
 
  .hide {
     display: none;
