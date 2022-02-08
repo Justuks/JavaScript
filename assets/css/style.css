@@ -178,3 +178,26 @@ body {
      margin-top: 10px;
      letter-spacing: 2px;
  }
+
+
+ /*add media query*/
+ @media screen and (max-width: 720px) {
+    .header {
+        border: 2px solid #a87b32;
+        background-color: black;
+        margin-top: 15px;
+        box-shadow: -10px 25px rgba(0, 0, 0, 0.5);
+        width: 95%;
+        margin-left: auto;
+        margin-right: auto;
+        letter-spacing: 2px;
+        height: 25vh;
+        line-height: normal;
+        text-align: center;
+        padding: auto;
+        font-weight: 100;
+        line-height: 50px;
+        border-radius: 15px;
+    }
+ }
+    
