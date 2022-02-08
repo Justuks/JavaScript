@@ -94,3 +94,23 @@ body {
     text-align: center;
     font-size: small;
 }
+#footer {
+        border: 2px solid #a87b32;
+        background-color: black;
+        margin-top: 15px;
+        box-shadow: -10px 25px rgba(0, 0, 0, 0.5);
+        width: 70%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 100px;
+        letter-spacing: 2px;
+        height: 20vh;
+        line-height: normal;
+        text-align: center;
+        padding: auto;
+        font-weight: 100;
+        line-height: 50px;
+        font-size: smaller;
+        border-radius: 15px;
+    
+}
