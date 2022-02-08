@@ -167,3 +167,12 @@ function startQuestions() {
   
     nextBtn.classList.remove("hide");
  }
+ //submit function
+ function submit() {
+    prevBtn.classList.add("hide");
+    nextBtn.classList.add("hide");
+    submitBtn.classList.add("hide");
+    trueBtn.classList.add("hide");
+    falseBtn.classList.add("hide");   
+    questionText.innerHTML ="Congratulations on submitting the Quiz!"
+ }
