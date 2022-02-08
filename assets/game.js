@@ -38,3 +38,8 @@ let questions = [
    }
 ]
 
+// now we need to add trigger property to our buttons with an 'onclick'.
+restartBtn.addEventListener("click", restart);
+prevBtn.addEventListener("click", prev);
+nextBtn.addEventListener("click",next);
+submitBtn.addEventListener("click",submit);
