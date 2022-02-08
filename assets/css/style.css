@@ -92,7 +92,15 @@ body {
     align-items: center;
     justify-content: center;
     text-align: center;
-    font-size: small;
+}
+#counter-p {
+    font-size: 30px;
+    font-weight: 200;
+    letter-spacing: 2px;
+}
+
+.span {
+    font-size: 20px;
 }
 #footer {
         border: 2px solid #a87b32;
@@ -176,6 +184,10 @@ body {
      margin-bottom: 100px;
      margin-top: 10px;
      letter-spacing: 2px;
+     font-size: 20px;
+ }
+ .score {
+     font-size: 20px;
  }
 
 
@@ -209,6 +221,7 @@ body {
     #counter-p {
         margin-top: 15px;
         margin-bottom: 100px;
+        font-size: 18px;
     }
- }
+ 
     
