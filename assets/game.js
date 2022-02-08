@@ -1,4 +1,5 @@
-//lets start our JS by creating variables
+//here we will assign our variables via DOM
+
 
 let restartBtn = document.getElementById("restart");
 let prevBtn = document.getElementById("prev");
@@ -10,27 +11,30 @@ let userScore = document.getElementById("user-score");
 let totalScore = document.getElementById("total-score");
 let questionText = document.getElementById("question-text")
 
-//below will go variables for an array with the questions as well as score counter and a current question counter
+
+//an array of questions and counter for score and a current question
 let currentQuestion = 0;
 let score = 0;
  
+
+
 let questions = [
    {
-       question: 'Where is the highest mountain in Europe?',
+       question: 'Where is the highest mountain of Europe',
        answers: [
-           {option: 'In the Alps', answer: false},
            {option: 'In the Caucasus', answer: true},
+           {option: 'In the Alps', answer: false},
        ]
    },
    {
-       question: 'Iran sometimes is called.......?',
+       question: 'Iran is also known as .......',
        answers: [
-           {option: 'Persia', answer: true},
            {option: 'Maghreb', answer: false},
+           {option: 'Persia', answer: true},
        ]
    },
    {
-       question: 'No plough stops for a ........ man.',
+       question: 'No plough stops for the ........ man.',
        answers: [
            {option: 'noble', answer: false},
            {option: 'dying', answer: true},
@@ -38,14 +42,17 @@ let questions = [
    }
 ]
 
-// now we need to add trigger property to our buttons with a 'click'.
+//provide trigger for buttons using 'click'
 restartBtn.addEventListener("click", restart);
 prevBtn.addEventListener("click", prev);
 nextBtn.addEventListener("click",next);
 submitBtn.addEventListener("click",submit);
 
-//work on function start-questions
-function startQuestions() {
+
+//function to start our questions below here
+
+function beginQuiz() {
+   
     currentQuestion = 0;
     totalScore.innerHTML = questions.length;
     questionText.innerHTML = questions[currentQuestion].question;
@@ -78,9 +85,9 @@ function startQuestions() {
     prevBtn.classList.add("hide");
  }
   
- startQuestions();
+ beginQuiz();
 
- //lets do a restart function
+ //function to reset the score and to reveal hidden class
  function restart() {
     currentQuestion = 0;
     prevBtn.classList.remove("hide");
@@ -90,13 +97,11 @@ function startQuestions() {
     falseBtn.classList.remove("hide");
     score = 0;
     userScore.innerHTML = score;
-    startQuestions();
+    beginQuiz();
  }
 
-
-
-
- function nextQuestion() {
+ //function to reveal next question
+ function next() {
     currentQuestion++;
     if(currentQuestion >= 2) {
         nextBtn.classList.add("hide");
@@ -131,7 +136,8 @@ function startQuestions() {
   
     prevBtn.classList.remove("hide");
  }
- //function which will turn previous question
+
+ //function that will go to the previous question
  function prev() {
     currentQuestion--;
     if(currentQuestion <= 0) {
@@ -167,7 +173,7 @@ function startQuestions() {
   
     nextBtn.classList.remove("hide");
  }
- //submit function
+ //function submit, which displays a message but also hides other buttons apart restart.
  function submit() {
     prevBtn.classList.add("hide");
     nextBtn.classList.add("hide");
