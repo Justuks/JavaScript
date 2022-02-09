@@ -40,7 +40,7 @@
  # Structure of a Website
  ## JavaScript Explorer consists of three pages.
  ## Home page:
- ### with a brief introduction of JavaScript and asimple question, 
+ ### with a brief introduction of JavaScript and a simple question, 
  ### that also displays 'pop up' messages.  
   
  ## Counter Page:
@@ -85,7 +85,7 @@
 
 # Images:
 ### There were only two images used in this work, for the background and favicon.
-### Both images were taken from https://www.pexels.com/ .    
+### Both images were taken from [pexels](https://www.pexels.com/) .    
 
 # Features
 ### Navigation links
