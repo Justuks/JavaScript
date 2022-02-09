@@ -45,11 +45,32 @@
  <details>
  <summary>Click to expand</summary>
 
- ![homeP2](https://user-images.githubusercontent.com/93588907/153223263-a416a72b-de15-4e80-8160-49ba57e58a79.png)
+ ![1desk](https://user-images.githubusercontent.com/93588907/153223263-a416a72b-de15-4e80-8160-49ba57e58a79.png)
 
- ![mobilehP2](https://user-images.githubusercontent.com/93588907/153223771-fdc7849f-c7e4-450c-8931-dd5ed6c1c42e.png)  
+ ![1mob](https://user-images.githubusercontent.com/93588907/153223771-fdc7849f-c7e4-450c-8931-dd5ed6c1c42e.png)  
   
+</details>  
+
+## Counter page
+<details>
+<summary>Click to expand</summary>  
+
+![desk1](https://user-images.githubusercontent.com/93588907/153225965-97b2ccfb-ca06-4344-8e4f-e9b9aa6e9d46.png)
+
+![Mob2](https://user-images.githubusercontent.com/93588907/153226095-860f1ed3-1399-415d-b455-25221382127c.png)  
+
+</details>  
+
+## Game page
+<details>
+<summary>Click to expand</summary> 
+
+![desktop](https://user-images.githubusercontent.com/93588907/153226747-b2ec2946-bd0c-43c6-bcab-d6cc0ef90578.png)
+
+![Mobile](https://user-images.githubusercontent.com/93588907/153227454-34bf2f99-3d6a-4085-aea2-239550ac4b35.png)  
+
 </details>
+
 
 
 
