@@ -75,8 +75,17 @@
 ## Dark background and smoke-white font was chosen for sufficient contrast.  
 
 # Images:
-## There were only two images used in this work, for the background and favicon.
-## Both images were taken from https://www.pexels.com/ .  
+### There were only two images used in this work, for the background and favicon.
+### Both images were taken from https://www.pexels.com/ .    
+
+# Features
+
+![newnav](https://user-images.githubusercontent.com/93588907/153230696-5dfb689e-63e1-43cf-8eb6-d4da233ca04e.png)  
+
+### Navigation links are easy to use. Besides two internal conectors, there are links to
+### social media accounts.
+### - User Stories: 2, 8 covered.
+
 
 
 
