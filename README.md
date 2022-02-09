@@ -1,6 +1,9 @@
 # 'JavaScript Explorer' is a brief introduction to today's most popular programming language.
 ### Created by Justinas Valutis  
-### Live website [here](https://user-images.githubusercontent.com/93588907/153267154-36b098e0-b39b-43e9-a41e-413b19981918.png)  
+### Live website [here](https://justuks.github.io/JavaScript/index.html)
+
+
+(https://user-images.githubusercontent.com/93588907/153267154-36b098e0-b39b-43e9-a41e-413b19981918.png)  
 
 
 # "JavaScript Explorer" highlites some of the features that we can achieve with the help of "JavaScript" language.
