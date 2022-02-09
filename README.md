@@ -69,7 +69,17 @@
 
 ![Mobile](https://user-images.githubusercontent.com/93588907/153227454-34bf2f99-3d6a-4085-aea2-239550ac4b35.png)  
 
-</details>
+</details>  
+
+# Color Theme:
+## Dark background and smoke-white font was chosen for sufficient contrast.  
+
+# Images:
+## There were only two images used in this work, for the background and favicon.
+## Both images were taken from https://www.pexels.com/ .  
+
+
+
 
 
 
