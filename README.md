@@ -11,6 +11,13 @@
 # User Expectations:
 ## 1. To find out what JavaScript is.
 ## 2. Expect some visual confirmation of the concept.
-## 3. Expect to try it for him/herself.  
+## 3. Expect to try it for him/herself.   
+  
+# User Stories
+## 1. I want to know what JavaScript is.
+## 2. I want to see easy navigation.
+## 3. I want to see examples.
+## 4. I want to try them.
+
 
 
