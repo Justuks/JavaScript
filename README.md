@@ -110,7 +110,14 @@
 
 ### 'pop up' messages are set to appear once user answers question in a main page.
 ### 'pop up' appears regardles if answer was correct or not, they cave different content.
-### - User stories: 3, 4, 6, 7, 9.
+### - User stories: 3, 4, 6, 7, 9 covered.  
+
+# 'Counter'  
+
+![counter](https://user-images.githubusercontent.com/93588907/153273759-e5e8fb33-4046-48bd-b0fd-b58750d72f9f.png)
+
+### This feature allows us to demonstrate a potential that JavaScript has.
+### With the help of it, it is possible to operate multiple calculations efficiently.
 
 
 
