@@ -104,6 +104,14 @@
 ### as well as it offers user to answer a question which generates a pop up message.
 ### - User Stories: 1, 3, 4, 6 covered.  
 
+# 'Pop up' messages  
+
+![pop up](https://user-images.githubusercontent.com/93588907/153272172-76c6eb89-215d-48b4-828f-5dba550accb4.png)  
+
+### 'pop up' messages are set to appear once user answers question in a main page.
+### 'pop up' appears regardles if answer was correct or not, they cave different content.
+### - User stories: 3, 4, 6, 7, 9.
+
 
 
 
