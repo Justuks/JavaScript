@@ -1,6 +1,6 @@
 # "JavaScript" Explorer is a website that highlites some of the features that we can achieve with the help of "JavaScript" language.
 
-# Taget Audience: 
+# Target Audience: 
 ## Anyone, who is intersted or studying "JavaScript".  
 
 # Website owners expectations:
@@ -18,6 +18,16 @@
 ## 2. I want to see easy navigation.
 ## 3. I want to see examples.
 ## 4. I want to try them.
+
+# Returning user stories
+## 5. I want to introduce JavaScript to others.
+## 6. I want to demonstrate to others what JavaScript can add to a website.
+
+# As a website owner
+## 7. I seek to introduce JavaScript concept to general public.
+## 8. I want them to easy navigate to other parts of a website.
+## 9. I want them to see how JavaScript can add 'movement' to a website.
+
 
 
 
