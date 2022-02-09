@@ -218,10 +218,11 @@ body {
     }
     #counter {
         font-size: x-small;
+        height: fit-content;
     }
     #counter-p {
         margin-top: 15px;
-        margin-bottom: 100px;
+        margin-bottom: 20px;
         font-size: 18px;
     }
  
