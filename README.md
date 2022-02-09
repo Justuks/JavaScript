@@ -79,12 +79,25 @@
 ### Both images were taken from https://www.pexels.com/ .    
 
 # Features
+### Navigation links
 
 ![newnav](https://user-images.githubusercontent.com/93588907/153230696-5dfb689e-63e1-43cf-8eb6-d4da233ca04e.png)  
 
 ### Navigation links are easy to use. Besides two internal conectors, there are links to
 ### social media accounts.
-### - User Stories: 2, 8 covered.
+### - User Stories: 2, 8 covered.  
+
+# Home page question  
+
+![home page](https://user-images.githubusercontent.com/93588907/153247607-bdf2805d-1fff-4ea0-bc23-dab2e7dc70ca.png)  
+
+### This part provides a brief description of what JavaScript is,
+### as well as it offers user to answer a question which generates a pop up message.
+### - User Stories: 1, 3, 4, 6 covered.  
+
+
+
+
 
 
 
