@@ -38,7 +38,18 @@
  ### with a form where different parameters, when changed, affects other parameters as well.  
 
  ## Game or Questionnaire Page:
- ### where user can answer questions and submit them to see a message.
+ ### where user can answer questions and submit them to see a message.  
+
+ # Wireframes of the pages
+ ## Home page
+ <details>
+ <summary>Click to expand</summary>
+
+ ![homeP2](https://user-images.githubusercontent.com/93588907/153223263-a416a72b-de15-4e80-8160-49ba57e58a79.png)
+
+ ![mobilehP2](https://user-images.githubusercontent.com/93588907/153223771-fdc7849f-c7e4-450c-8931-dd5ed6c1c42e.png)  
+  
+</details>
 
 
 
