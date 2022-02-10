@@ -277,6 +277,10 @@
 
 </details>  
 
+# User story tests
+
+## 1. I want to know what JavaScript is.
+* Action: open home page.
 
 
 
