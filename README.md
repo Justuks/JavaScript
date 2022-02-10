@@ -369,6 +369,14 @@
 * For the source select Branch: main
 * After the webpage refreshes automaticaly you will se a ribbon on the top saying: "Your site is published at:  https://justuks.github.io/JavaScript/
 
+# Problems Encountered
+### During the stage of development I made a mistake and did not check my buttons contrast.
+### I calibrated their background color initially as rgb(168, 123, 50) with smoke white text.
+### I was drawn into sin, thinking that the contrast will be sufficient, however, during readme.md
+### writing process I found out that it was a mistake with very little time to correct it within readme file.
+## Conclusion: Lesson learned the hard way. Will make sure in the future to check contrasts beforehand.
+
+
 
 
 
