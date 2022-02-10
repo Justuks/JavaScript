@@ -37,43 +37,49 @@
 ## 1. To introduce viewer to the concept of "JavaScript".
 ## 2. To demonstrate some of its abilities.
 ## 3. Let user try it for him/herself.
+[Table of Content](#table-of-content)
 
 # User Expectations:
 ## 1. To find out what JavaScript is.
 ## 2. Expect some visual confirmation of the concept.
 ## 3. Expect to try it for him/herself.   
-  
+[Table of Content](#table-of-content)
+
 # User Stories:
 ## 1. I want to know what JavaScript is.
 ## 2. I want to see easy navigation.
 ## 3. I want to see examples.
 ## 4. I want to try them.
+[Table of Content](#table-of-content)
 
 # Returning user stories:
 ## 5. I want to introduce JavaScript to others.
 ## 6. I want to demonstrate to others what JavaScript can add to a website.
+[Table of Content](#table-of-content)
 
 # As a website owner:
 ## 7. I seek to introduce JavaScript concept to general public.
 ## 8. I want them to easy navigate to other parts of a website.
 ## 9. I want them to see how JavaScript can add 'movement' to a website.  
- 
- # Structure of a Website
- ## JavaScript Explorer consists of three pages.
- ## Home page:
- ### with a brief introduction of JavaScript and a simple question, 
- ### that also displays 'pop up' messages.  
+[Table of Content](#table-of-content)
+
+# Structure of a Website
+## JavaScript Explorer consists of three pages.
+## Home page:
+### with a brief introduction of JavaScript and a simple question, 
+### that also displays 'pop up' messages.  
   
- ## Counter Page:
- ### with a form where different parameters, when changed, affects other parameters as well.  
+## Counter Page:
+### with a form where different parameters, when changed, affects other parameters as well.  
 
- ## Game or Questionnaire Page:
- ### where user can answer questions and submit them to see a message.  
+## Game or Questionnaire Page:
+### where user can answer questions and submit them to see a message.  
+[Table of Content](#table-of-content)
 
- # Wireframes of the Pages
- ## Home page
- <details>
- <summary>Click to expand</summary>
+# Wireframes of the Pages
+## Home page
+<details>
+<summary>Click to expand</summary>
 
  ![1desk](https://user-images.githubusercontent.com/93588907/153223263-a416a72b-de15-4e80-8160-49ba57e58a79.png)
 
@@ -101,12 +107,17 @@
 
 </details>  
 
+[Table of Content](#table-of-content)
+
+
 # Color Theme:
 ## Dark background and smoke-white font was chosen for sufficient contrast.  
+[Table of Content](#table-of-content)
 
 # Images:
 ### There were only two images used in this work, for the background and favicon.
 ### Both images were taken from [pexels](https://www.pexels.com/) .    
+[Table of Content](#table-of-content)
 
 # Features
 ## Logo and the Navigation links
@@ -176,6 +187,7 @@
 ### located.
 ### It also indicates name of the author and an email link to contact him.
 ### User stories: 2, 8 covered.  
+[Table of Content](#table-of-content)
 
 # Responsiveness 
 
@@ -183,6 +195,9 @@
 ### 720px.
 
 ![px](https://user-images.githubusercontent.com/93588907/153342974-2589dd91-3155-406e-8f32-7b94bd76b825.png)  
+
+[Table of Content](#table-of-content)
+
   
 # Testing
 
@@ -209,7 +224,7 @@
 
 </details>
 
-# HTML Validation
+## HTML Validation
 
 ### Checking HTML also showed zero errors or warnings.
 
@@ -240,7 +255,7 @@
 
 </details>  
 
-# JavaScript validation  
+## JavaScript validation  
 
 ## Java.js
 
@@ -298,7 +313,7 @@
 
 </details>  
 
-# User story tests
+## User story tests
 
 ## User stories 1., 7. and 5. I want to know and show to others what JavaScript is.
 * Action: open home page.
@@ -379,6 +394,7 @@
 * W3C Markup validator - to screen html.
 * JSHint - to screen JavaScript
 * LightHouse - to check performance and best practices
+[Table of Content](#table-of-content)
 
 # Deployment
 
@@ -388,6 +404,7 @@
 * On the left hand menu select Pages
 * For the source select Branch: main
 * After the webpage refreshes automaticaly you will se a ribbon on the top saying: "Your site is published at:  https://justuks.github.io/JavaScript/
+[Table of Content](#table-of-content)
 
 # Problems Encountered
 ### During the stage of development I made a mistake and did not check my buttons contrast.
@@ -395,6 +412,8 @@
 ### I was drawn into sin, thinking that the contrast will be sufficient, however, during readme.md
 ### writing process I found out to my horror that it was a mistake with very little time to correct it within readme file.
 ## Conclusion: Lesson learned the hard way. Will make sure in the future to check contrasts beforehand.
+[Table of Content](#table-of-content)
+
 
 # Acknowledgement
 ## This project would not have been achieved without the help and guidance of
@@ -404,6 +423,10 @@
 ### And various online recources, such as: W3C
 ### and: Developer Mozilla
 ## But the person who deserves a particular recognition is my wife, who demonstrated an immense patience and support.
+[Table of Content](#table-of-content)
+
+# Footnote
+[Table of Content](#table-of-content)
 
 
 
