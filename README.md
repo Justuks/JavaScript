@@ -217,7 +217,9 @@
 
 ![gameH](https://user-images.githubusercontent.com/93588907/153351279-e8744089-cf7a-4a7f-9667-01a8ea5beef7.png)
 
-</details>
+</details>  
+
+# JavaScript validation
 
 
 
