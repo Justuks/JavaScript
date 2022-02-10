@@ -158,10 +158,18 @@
 
 # Responsiveness 
 
-### In order to make the page small screen 'friendly', the break poin was applied at
+### In order to make the page small screen 'friendly', the so called 'break point' was applied at
 ### 720px.
 
-![px](https://user-images.githubusercontent.com/93588907/153342974-2589dd91-3155-406e-8f32-7b94bd76b825.png)
+![px](https://user-images.githubusercontent.com/93588907/153342974-2589dd91-3155-406e-8f32-7b94bd76b825.png)  
+  
+# Testing
+
+### During development phase, project and its features performance were constantly checked
+### using 'Developer Tools'.
+### 'Developer Tools' and its 'Box Model' together with 'Different Device Emulation'
+### were very useful in configurating project responsiveness to smaller screen sizes.
+### Besides Developer Tools, kinetic tests were carried out in order to make sure that every link ### regardless of its location is responding.
 
 
 
