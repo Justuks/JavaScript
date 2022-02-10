@@ -360,6 +360,15 @@
 * JSHint - to screen JavaScript
 * LightHouse - to check performance and best practices
 
+# Deployment
+
+## Project was developed using GitPod as a building platform.
+## The website was deployed using GitHub Pages by following these steps:
+* In the GitHub repository navigate to the Settings tab
+* On the left hand menu select Pages
+* For the source select Branch: main
+* After the webpage refreshes automaticaly you will se a ribbon on the top saying: "Your site is published at:  https://justuks.github.io/JavaScript/
+
 
 
 
