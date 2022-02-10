@@ -246,7 +246,28 @@
 
 ![gameJS](https://user-images.githubusercontent.com/93588907/153354136-e7c7222a-d7b0-4ed3-ac64-bba31ba0a6ea.png)  
 
+</details>  
+
+## Lighthouse report
+
+### Home page
+
+<details>
+<summary>Click to expand</summary> 
+
+![light1](https://user-images.githubusercontent.com/93588907/153355456-41d7f8da-229a-4c03-a46b-c1b077fd8e15.png)
+
 </details>
+
+### Counter page  
+
+<details>
+<summary>Click to expand</summary> 
+
+![counterlight](https://user-images.githubusercontent.com/93588907/153355987-7eddc3fe-cde6-4226-b9b1-e4cb2b8729be.png)
+
+</details>
+
 
 
 
