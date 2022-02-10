@@ -12,6 +12,18 @@
 * [Target Audience](#target-audience)
 * [Website owners expectations](#website-owners-expectations)
 * [User Expectations](#user-expectations)
+* [User Stories](#user-stories)
+* [Returning User Stories](#returning-user-stories)
+* [As a Website Owner](#as-a-website-owner)
+* [Structure of a Website](#structure-of-a-website)
+* [Wireframes of the Pages](#wireframes-of-the-pages)
+* [Color Theme](#color-theme)
+* [Images](#images)
+* [Features](#features)
+* [Responsiveness](#responsiveness)
+* [Testing](#testing)
+* [Technologies Used](#technologies-used)
+
 
 # Target Audience: 
 ## Anyone, who is intersted or studying "JavaScript".  
@@ -53,7 +65,7 @@
  ## Game or Questionnaire Page:
  ### where user can answer questions and submit them to see a message.  
 
- # Wireframes of the pages
+ # Wireframes of the Pages
  ## Home page
  <details>
  <summary>Click to expand</summary>
@@ -92,7 +104,7 @@
 ### Both images were taken from [pexels](https://www.pexels.com/) .    
 
 # Features
-### Logo and the Navigation links
+## Logo and the Navigation links
 
 ![newnav](https://user-images.githubusercontent.com/93588907/153230696-5dfb689e-63e1-43cf-8eb6-d4da233ca04e.png)  
 
@@ -101,7 +113,7 @@
 ### social media accounts.
 ### - User Stories: 2, 8 covered.  
 
-# Home page question  
+## Home page question  
 
 ![home page](https://user-images.githubusercontent.com/93588907/153247607-bdf2805d-1fff-4ea0-bc23-dab2e7dc70ca.png)  
 
@@ -109,7 +121,7 @@
 ### as well as it offers user to answer a question which generates a pop up message.
 ### - User Stories: 1, 3, 4, 6 covered.  
 
-# 'Pop up' messages  
+## 'Pop up' messages  
 
 ![pop up](https://user-images.githubusercontent.com/93588907/153272172-76c6eb89-215d-48b4-828f-5dba550accb4.png)  
 
@@ -117,7 +129,7 @@
 ### 'pop up' appears regardles if answer was correct or not, they cave different content.
 ### - User stories: 3, 4, 6, 7, 9 covered.  
 
-# 'Counter'  
+## 'Counter'  
 
 ![counter](https://user-images.githubusercontent.com/93588907/153273759-e5e8fb33-4046-48bd-b0fd-b58750d72f9f.png)
 
@@ -125,7 +137,7 @@
 ### With the help of it, it is possible to operate multiple calculations efficiently.  
 ### User stories: 3, 4, 6 covered.
 
-# 'Game'  
+## 'Game'  
 
 ![game](https://user-images.githubusercontent.com/93588907/153338261-2b3d11c0-0784-499c-88ad-399666bba596.png)  
 
@@ -134,16 +146,16 @@
 ### but it can be employed in other areas, such as games too.
 ### User stories: 3, 4, 5, 6, 9 covered.  
 
-# Game navigation  
+## Game controls 
 
 ![buttons](https://user-images.githubusercontent.com/93588907/153339274-0a2fec2e-1217-40b9-95af-a2db49bdecde.png)  
 
-### Game navigation buttons makes it easy to play the game by calling to action.
+### Game controll buttons makes it easy to play the game by calling to action.
 ### They provide an option to the question, as well as opportunity to jump
 ### to previous or next question, restart the game and finaly to submit.
 ### User stories: 2, 8, 9 covered.  
  
-# Submit message and score counter  
+## Submit message and score counter  
 
 ![score](https://user-images.githubusercontent.com/93588907/153340275-e4ff7eaf-ff35-41ca-a43f-87977654cbcc.png)  
 
@@ -151,7 +163,7 @@
 ### While message, which appears after pressing submit, indicates that the game is complete.
 ### User stories: 3, 6, 9 covered.  
 
-# Footer  
+## Footer  
 
 ![footer](https://user-images.githubusercontent.com/93588907/153341397-16edddc7-8941-4627-bd45-09a5931412ae.png)  
 
@@ -175,7 +187,7 @@
 ### were very useful in configurating project responsiveness to smaller screen sizes.
 ### Besides Developer Tools, kinetic tests were carried out in order to make sure that every link regardless of its location is responding. 
   
-# Hardware and virtual 'test beds'  
+## Hardware and virtual 'test beds'  
 
 ### Apart from testing website reactions to different screen sizes on 'DevTools' and
 ### ['am I responsive](http://ami.responsivedesign.is/) website, responsiveness was also ###crosschecked on physical devices such as HP PAVILION laptop, Samsung Z Flip and Motorola G9 Play mobile phones.
