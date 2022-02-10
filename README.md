@@ -412,8 +412,8 @@
 # Problems Encountered
 ### During the stage of development I made a mistake and did not check my buttons contrast.
 ### I calibrated their background color initially as rgb(168, 123, 50) with smoke white text.
-### I was drawn into sin, thinking that the contrast will be sufficient, however, during readme.md
-### writing process I found out to my horror that it was a mistake with very little time to correct it within readme file.
+### I was drawn into a sin, thinking that the contrast will be sufficient, however, during readme.md
+### writing process I found out to my horror that it was a mistake with very little time to correct it within readme file, hence different colors on buttons in some screenshots.
 ## Conclusion: Lesson learned the hard way. Will make sure in the future to check contrasts beforehand.
 [Table of Content](#table-of-content)
 
@@ -429,6 +429,16 @@
 [Table of Content](#table-of-content)
 
 # Footnote
+## Dear Assessor,
+It is clear as day, that this particular work is probably below standard, especially when compared to other brilliant projects that my mentor showed me as an example. 
+Although I grasped with understanding the concepts of JavaScript and its essentials, but to apply them practically was a real struggle that consumed immense amounts of time.
+Something went pear-shaped in my methodology and approach to studying JavaScript and the feeling of 'running after the train' was omnipresent. I will have to go back and review some topics,no question about that.
+Dear Assessor,
+If you fail me - I will fully understand.
+If I pass, I will take it as a credit of trust.
+Yours Sincerely
+Justinas Valutis
+
 [Table of Content](#table-of-content)
 
 
