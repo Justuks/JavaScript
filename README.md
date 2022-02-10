@@ -279,14 +279,14 @@
 
 # User story tests
 
-## 1./ 5. I want to know and show to others what JavaScript is.
+## User stories 1. and 5. I want to know and show to others what JavaScript is.
 * Action: open home page.
 * Result: brief introduction with a test question is right there.
 * Conclusion: test passed.
 
 ![home page](https://user-images.githubusercontent.com/93588907/153247607-bdf2805d-1fff-4ea0-bc23-dab2e7dc70ca.png)  
 
-## 2. I want to see easy navigation. 
+## User stories 2. and 8. I want to see/provide easy navigation. 
 * Action: press page links and/or social media icons.
 * Result: links will bring to the places in question.
 * Conclusion: test passed.
@@ -295,7 +295,7 @@
 
 
 
-## 3. I want to see examples.
+## User stories 3. and 9. I want to see/to show examples.
 * Action: choose answer to presented question.
 * 'Pop up' message appears.
 * Conclusion: test passed.
