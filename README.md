@@ -175,7 +175,20 @@
 
 ### Apart from testing website reactions to different screen sizes on 'DevTools' and
 ### ['am I responsive](http://ami.responsivedesign.is/) website, responsiveness was also ###crosschecked on physical devices such as HP PAVILION laptop, Samsung Z Flip and Motorola G9 Play mobile phones.
-### No issues were found and everything worked as intended.
+### No issues were found and everything worked as intended.  
+
+# W3C CSS Validation
+
+### Checking CSS code proved that it has no errors.  
+
+<details>
+<summary>Click to expand</summary>
+
+![css](https://user-images.githubusercontent.com/93588907/153346398-152611b1-8eb5-4f96-b2a4-4296045f2852.png)  
+
+</details>
+
+
 
 
 
