@@ -64,7 +64,7 @@
 [Table of Content](#table-of-content)
 
 # Structure of a Website
-## JavaScript Explorer consists of three pages.
+## "JavaScript Explorer" consists of three pages.
 ## Home page:
 ### with a brief introduction of JavaScript and a simple question, 
 ### that also displays 'pop up' messages.  
@@ -226,7 +226,7 @@
 
 ## HTML Validation
 
-### Checking HTML also showed zero errors or warnings.
+### Checking HTML also showed zero errors.
 
 ## Index.html  
 
@@ -291,7 +291,8 @@
 <details>
 <summary>Click to expand</summary> 
 
-![light1](https://user-images.githubusercontent.com/93588907/153355456-41d7f8da-229a-4c03-a46b-c1b077fd8e15.png)
+![newLight1](https://user-images.githubusercontent.com/93588907/153393395-0fefe72d-25f7-4d91-89a2-339bd8b0121e.png)
+
 
 </details>
 
@@ -300,7 +301,8 @@
 <details>
 <summary>Click to expand</summary> 
 
-![counterlight](https://user-images.githubusercontent.com/93588907/153355987-7eddc3fe-cde6-4226-b9b1-e4cb2b8729be.png)
+![newLight2](https://user-images.githubusercontent.com/93588907/153394007-7842fc53-b9ea-488d-adf0-657f14e9acd0.png)
+
 
 </details>  
 
@@ -309,7 +311,8 @@
 <details>
 <summary>Click to expand</summary> 
 
-![gamelight](https://user-images.githubusercontent.com/93588907/153356533-2fbdf224-de45-4bb7-a359-d478521e54e7.png)
+![newLight3](https://user-images.githubusercontent.com/93588907/153394811-9bef5cf5-8350-4020-aeac-85cd29060670.png)
+
 
 </details>  
 
