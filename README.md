@@ -192,7 +192,14 @@
 
 ### Checking HTML also showed zero errors or warnings.
 
-## Index.html
+## Index.html  
+
+<details>
+<summary>Click to expand</summary>  
+
+![indexJ](https://user-images.githubusercontent.com/93588907/153347884-bde9b44b-4ae8-4076-a582-55d8fdb795e5.png)
+
+</details>
 
 
 
