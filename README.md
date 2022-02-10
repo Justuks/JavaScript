@@ -266,7 +266,17 @@
 
 ![counterlight](https://user-images.githubusercontent.com/93588907/153355987-7eddc3fe-cde6-4226-b9b1-e4cb2b8729be.png)
 
-</details>
+</details>  
+
+### Game page  
+
+<details>
+<summary>Click to expand</summary> 
+
+![gamelight](https://user-images.githubusercontent.com/93588907/153356533-2fbdf224-de45-4bb7-a359-d478521e54e7.png)
+
+</details>  
+
 
 
 
