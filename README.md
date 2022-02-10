@@ -281,6 +281,8 @@
 
 ## 1. I want to know what JavaScript is.
 * Action: open home page.
+* Result: brief introduction with a test question is right there.
+* Conclusion: test passed.
 
 
 
