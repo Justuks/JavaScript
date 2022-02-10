@@ -88,11 +88,12 @@
 ### Both images were taken from [pexels](https://www.pexels.com/) .    
 
 # Features
-### Navigation links
+### Logo and the Navigation links
 
 ![newnav](https://user-images.githubusercontent.com/93588907/153230696-5dfb689e-63e1-43cf-8eb6-d4da233ca04e.png)  
 
-### Navigation links are easy to use. Besides two internal conectors, there are links to
+### Navigation links are easy to use. They spread across all three pages.
+### Besides two internal conectors, there are links to 
 ### social media accounts.
 ### - User Stories: 2, 8 covered.  
 
@@ -118,6 +119,7 @@
 
 ### This feature allows us to demonstrate a potential that JavaScript has.
 ### With the help of it, it is possible to operate multiple calculations efficiently.  
+### User stories: 3, 4, 6 covered.
 
 # 'Game'  
 
@@ -144,6 +146,16 @@
 ### Score counter shows how many questions were answered correctly out of total.
 ### While message, which appears after pressing submit, indicates that the game is complete.
 ### User stories: 3, 6, 9 covered.  
+
+# Footer  
+
+![footer](https://user-images.githubusercontent.com/93588907/153341397-16edddc7-8941-4627-bd45-09a5931412ae.png)  
+
+### Footer aids in navigation. It has a link that brings user to the top, where main menu is
+### located.
+### It also indicates name of the author and an email link to contact him.
+### User stories: 2, 8 covered.
+
 
 
 
