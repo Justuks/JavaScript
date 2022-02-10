@@ -23,6 +23,10 @@
 * [Responsiveness](#responsiveness)
 * [Testing](#testing)
 * [Technologies Used](#technologies-used)
+* [Deployment](#deployment)
+* [Problems Encountered](#problems-encountered)
+* [Acknowledgement](#acknowledgement)
+* [Footnote](#footnote)
 
 
 # Target Audience: 
@@ -360,7 +364,7 @@
 
 </details>
 
-# Technologies used:
+# Technologies Used:
 
 * HTML - to build a structure.
 * CSS - to style the content.
