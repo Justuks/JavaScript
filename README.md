@@ -295,14 +295,20 @@
 
 
 
-
-
 ## 3. I want to see examples.
 * Action: choose answer to presented question.
 * 'Pop up' message appears.
 * Conclusion: test passed.
 
 ![wrong](https://user-images.githubusercontent.com/93588907/153358943-80d8a7e0-4acc-412a-9ace-89f0e7343347.png)
+
+## 4. I want to try them.
+
+* Action: user can try the example on 'counter' page.
+* Result: changing one parameter will automatically affect the other.
+* Conclusion: test passed.
+
+
 
 
 
