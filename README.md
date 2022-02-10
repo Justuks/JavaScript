@@ -345,6 +345,21 @@
 
 </details>
 
+# Technologies used:
+
+* HTML - to build a structure.
+* CSS - to style the content.
+* JavaScript - to make website interactive.
+* Google Fonts as a font recourse.
+* Balsamiq Wireframes - used for wireframing.
+* GitHub - used as a hosting platform.
+## Also testing tools:
+* WebAim - for accessibility
+* W3C CSS validator - to screen css.
+* W3C Markup validator - to screen html.
+* JSHint - to screen JavaScript
+* LightHouse - to check performance and best practices
+
 
 
 
