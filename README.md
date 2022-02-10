@@ -308,6 +308,8 @@
 * Result: changing one parameter will automatically affect the other.
 * Conclusion: test passed.
 
+![wind](https://user-images.githubusercontent.com/93588907/153364952-78042817-8927-4489-8ca6-eb6a8a920b57.png)
+
 
 
 
