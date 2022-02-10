@@ -188,6 +188,12 @@
 
 </details>
 
+# HTML Validation
+
+### Checking HTML also showed zero errors or warnings.
+
+## Index.html
+
 
 
 
