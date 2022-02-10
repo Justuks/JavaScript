@@ -174,8 +174,7 @@
 # Hardware and virtual 'test beds'  
 
 ### Apart from testing website reactions to different screen sizes on 'DevTools' and
-### ['am I responsive](http://ami.responsivedesign.is/) website, responsiveness was also crosschecked on physical devices such as HP PAVILION laptop, 
-### Samsung Z Flip and Motorola G9 Play mobile phones.
+### ['am I responsive](http://ami.responsivedesign.is/) website, responsiveness was also ###crosschecked on physical devices such as HP PAVILION laptop, Samsung Z Flip and Motorola G9 Play mobile phones.
 ### No issues were found and everything worked as intended.
 
 
