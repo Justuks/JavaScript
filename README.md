@@ -117,7 +117,25 @@
 ![counter](https://user-images.githubusercontent.com/93588907/153273759-e5e8fb33-4046-48bd-b0fd-b58750d72f9f.png)
 
 ### This feature allows us to demonstrate a potential that JavaScript has.
-### With the help of it, it is possible to operate multiple calculations efficiently.
+### With the help of it, it is possible to operate multiple calculations efficiently.  
+
+# 'Game'  
+
+![game](https://user-images.githubusercontent.com/93588907/153338261-2b3d11c0-0784-499c-88ad-399666bba596.png)  
+
+### This feature also demonstrates the potential of JavaScript.
+### We can clearly see that it can be adapted not only to make calculations,
+### but it can be employed in other areas, such as games too.
+### User stories: 3, 4, 5, 6, 9 covered.  
+
+# Game navigation  
+
+![buttons](https://user-images.githubusercontent.com/93588907/153339274-0a2fec2e-1217-40b9-95af-a2db49bdecde.png)  
+
+### Game navigation buttons makes it easy to play the game by calling to action.
+### They provide an option to the question, as well as opportunity to jump
+### to previous or next question, restart the game and finaly to submit.
+
 
 
 
