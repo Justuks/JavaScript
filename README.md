@@ -154,7 +154,16 @@
 ### Footer aids in navigation. It has a link that brings user to the top, where main menu is
 ### located.
 ### It also indicates name of the author and an email link to contact him.
-### User stories: 2, 8 covered.
+### User stories: 2, 8 covered.  
+
+# Responsiveness 
+
+### In order to make the page small screen 'friendly', the break poin was applied at
+### 720px.
+
+![px](https://user-images.githubusercontent.com/93588907/153342974-2589dd91-3155-406e-8f32-7b94bd76b825.png)
+
+
 
 
 
