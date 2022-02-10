@@ -9,7 +9,9 @@
 
 # "JavaScript Explorer" highlites some of the features that we can achieve with the help of "JavaScript" language.
 # Table of content
-*[Target Audience](#target-audience)
+* [Target Audience](#target-audience)
+* [Website owners expectations](#website-owners-expectations)
+* [User Expectations](#user-expectations)
 
 # Target Audience: 
 ## Anyone, who is intersted or studying "JavaScript".  
