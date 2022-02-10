@@ -376,6 +376,15 @@
 ### writing process I found out that it was a mistake with very little time to correct it within readme file.
 ## Conclusion: Lesson learned the hard way. Will make sure in the future to check contrasts beforehand.
 
+# Acknowledgement
+## This project would not have been achieved without the help and guidance of
+### my mentor Mr. Mohammad Shami, and also without helpful hand of:
+### Slack Community
+### Code Institute tutors
+### And various online recources, such as: W3C
+### and: Developer Mozilla
+## But the person who deserves a particular recognition is my wife, who demonstrated an immense patience and support.
+
 
 
 
