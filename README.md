@@ -237,7 +237,17 @@
 
 ![counterJS](https://user-images.githubusercontent.com/93588907/153353189-3fb0d874-c606-4966-9cf7-9ecd42c1fbaa.png)
 
+</details>  
+
+## Game.js  
+ 
+<details>
+<summary>Click to expand</summary>  
+
+![gameJS](https://user-images.githubusercontent.com/93588907/153354136-e7c7222a-d7b0-4ed3-ac64-bba31ba0a6ea.png)  
+
 </details>
+
 
 
 
