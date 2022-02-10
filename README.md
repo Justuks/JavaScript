@@ -3,7 +3,8 @@
 ### Live website [here](https://justuks.github.io/JavaScript/index.html)
 
 
-  ![responsive](https://user-images.githubusercontent.com/93588907/153267154-36b098e0-b39b-43e9-a41e-413b19981918.png)
+  ![newS](https://user-images.githubusercontent.com/93588907/153378150-67160b56-4f58-41bc-8c3c-6052faa6d00b.png)
+
 
 
 
