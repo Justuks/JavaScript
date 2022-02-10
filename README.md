@@ -31,6 +31,7 @@
 
 # Target Audience: 
 ## Anyone, who is intersted or studying "JavaScript".  
+[Table of Content](#table-of-content)
 
 # Website owners expectations:
 ## 1. To introduce viewer to the concept of "JavaScript".
