@@ -279,7 +279,7 @@
 
 # User story tests
 
-## User stories 1. and 5. I want to know and show to others what JavaScript is.
+## User stories 1., 7. and 5. I want to know and show to others what JavaScript is.
 * Action: open home page.
 * Result: brief introduction with a test question is right there.
 * Conclusion: test passed.
@@ -302,7 +302,7 @@
 
 ![wrong](https://user-images.githubusercontent.com/93588907/153358943-80d8a7e0-4acc-412a-9ace-89f0e7343347.png)
 
-## 4. I want to try them.
+## User story 4. I want to try them.
 
 * Action: user can try the example on 'counter' page.
 * Result: changing one parameter will automatically affect the other.
@@ -310,7 +310,7 @@
 
 ![wind](https://user-images.githubusercontent.com/93588907/153364952-78042817-8927-4489-8ca6-eb6a8a920b57.png)
 
-## 6. I want to demonstrate to others what JavaScript can add to a website.
+## User story 6. I want to demonstrate to others what JavaScript can add to a website.
 
 * Action: play question game on a game page.
 * Result: score, changing questions, submit message provides a glimpse into JavaScript potential.
