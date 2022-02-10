@@ -318,6 +318,32 @@
 
 ![game](https://user-images.githubusercontent.com/93588907/153338261-2b3d11c0-0784-499c-88ad-399666bba596.png) 
 
+# Accessibility report
+ 
+## Home page
+<details>
+<summary>Click to expand</summary>
+
+![contrast1](https://user-images.githubusercontent.com/93588907/153376185-a8f7e852-45bd-4196-b60f-2e4ccc38523b.png)
+
+</details>
+
+## Counter page
+<details>
+<summary>Click to expand</summary>
+
+![contrast2](https://user-images.githubusercontent.com/93588907/153376656-a97aa054-53f7-44ef-9f97-3c696637c6f1.png)
+
+</details>
+
+## Game page 
+<details>
+<summary>Click to expand</summary>
+
+![contrast3](https://user-images.githubusercontent.com/93588907/153376950-65018ab3-69b7-4432-9917-85db81e8c5b5.png)
+
+</details>
+
 
 
 
