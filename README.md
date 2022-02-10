@@ -284,11 +284,20 @@
 * Result: brief introduction with a test question is right there.
 * Conclusion: test passed.
 
-![home page](https://user-images.githubusercontent.com/93588907/153247607-bdf2805d-1fff-4ea0-bc23-dab2e7dc70ca.png)
+![home page](https://user-images.githubusercontent.com/93588907/153247607-bdf2805d-1fff-4ea0-bc23-dab2e7dc70ca.png)  
+
+## 2. I want to see easy navigation. 
+* Action: press page links and/or social media icons.
+* Result: links will bring to the places in question.
+* Conclusion: test passed.
+
+![links](https://user-images.githubusercontent.com/93588907/153360965-0cd21486-d378-40f4-a92f-e183bd9fe629.png)
 
 
 
-## 2. Expect some visual confirmation of the concept.
+
+
+## 3. I want to see examples.
 * Action: choose answer to presented question.
 * 'Pop up' message appears.
 * Conclusion: test passed.
