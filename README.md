@@ -135,6 +135,17 @@
 ### Game navigation buttons makes it easy to play the game by calling to action.
 ### They provide an option to the question, as well as opportunity to jump
 ### to previous or next question, restart the game and finaly to submit.
+### User stories: 2, 8, 9 covered.  
+ 
+# Submit message and score counter  
+
+![score](https://user-images.githubusercontent.com/93588907/153340275-e4ff7eaf-ff35-41ca-a43f-87977654cbcc.png)  
+
+### Score counter shows how many questions were answered correctly out of total.
+### While message, which appears after pressing submit, indicates that the game is complete.
+### User stories: 3, 6, 9 covered.  
+
+
 
 
 
