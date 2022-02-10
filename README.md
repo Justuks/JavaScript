@@ -284,6 +284,20 @@
 * Result: brief introduction with a test question is right there.
 * Conclusion: test passed.
 
+![home page](https://user-images.githubusercontent.com/93588907/153247607-bdf2805d-1fff-4ea0-bc23-dab2e7dc70ca.png)
+
+
+
+## 2. Expect some visual confirmation of the concept.
+* Action: choose answer to presented question.
+* 'Pop up' message appears.
+* Conclusion: test passed.
+
+![wrong](https://user-images.githubusercontent.com/93588907/153358943-80d8a7e0-4acc-412a-9ace-89f0e7343347.png)
+
+
+
+
 
 
 
