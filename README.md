@@ -279,7 +279,7 @@
 
 # User story tests
 
-## 1. I want to know what JavaScript is.
+## 1./ 5. I want to know and show to others what JavaScript is.
 * Action: open home page.
 * Result: brief introduction with a test question is right there.
 * Conclusion: test passed.
@@ -310,6 +310,13 @@
 
 ![wind](https://user-images.githubusercontent.com/93588907/153364952-78042817-8927-4489-8ca6-eb6a8a920b57.png)
 
+## 6. I want to demonstrate to others what JavaScript can add to a website.
+
+* Action: play question game on a game page.
+* Result: score, changing questions, submit message provides a glimpse into JavaScript potential.
+* Conclusion: test passed.
+
+![game](https://user-images.githubusercontent.com/93588907/153338261-2b3d11c0-0784-499c-88ad-399666bba596.png) 
 
 
 
